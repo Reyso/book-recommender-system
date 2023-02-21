@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small project for Book Recomender System
+Home-page: http://github.com/Reyso/Machine-Learning-for-Books-Recomender-System
+Author: Reyso
+Author-email: reyso.ct@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
